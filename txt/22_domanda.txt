@@ -1,0 +1,6 @@
+qual'è il mostro più forte?
+a)goblin
+b)xorn
+c)serpente
+d)drago
+3

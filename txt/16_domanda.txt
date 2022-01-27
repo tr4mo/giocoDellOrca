@@ -1,0 +1,6 @@
+Nome del primo film della Disney? 
+a)bianca neve
+b)pinocchio
+c)fantasia
+d)dumbo
+1

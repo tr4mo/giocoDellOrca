@@ -1,0 +1,9 @@
+Quante corde ha una chitarra?
+a)quattro
+b)sette
+c)sei
+d)cinque
+3
+
+
+
